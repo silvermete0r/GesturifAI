@@ -7,6 +7,8 @@
 ## 📝 About The Project
 *GesturifAI* is a computer vision-based gesture recognition and control system that allows users to interact with their devices using hand gestures. The system uses a camera to capture images of the user's hand movements and applies computer vision algorithms to recognize and interpret these movements. This project is designed to be highly efficient and user-friendly for gesture control.
 
+[![Smart Gestures Demonstration by Arman][demonstration-screenshot]](https://www.canva.com/design/DAFff3EAQJ0/XjP4m8_rXH-1acGX8KrEIA/edit?utm_content=DAFff3EAQJ0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ### 👩‍🏭 Features
 1. **Contactless control:** 
  > GesturifAI allows for contactless control of equipment using hand gestures, which minimizes the risk of infection in public places or shared equipment.
@@ -29,7 +31,7 @@
 ### 💾 Dataset & Training
 GesturifAI computer vision models were trained on the basis of a dataset of **3300+ images**. Note: **We have manually created a high-quality dataset for gesture training.**
 *Link to the dataset: [>>>GesturifAI_DataSet<<<](https://drive.google.com/drive/folders/1QtpRrrk6DPgsg3snwRBV0P2arVqBlhYS?usp=share_link)*
-[![Smart Gestures Instructions by GesturifAI][instructions-screenshot]](https://www.canva.com/design/DAFff3EAQJ0/XjP4m8_rXH-1acGX8KrEIA/edit?utm_content=DAFff3EAQJ0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![Smart Gestures Training by GesturifAI][training-screenshot]](https://www.canva.com/design/DAFff3EAQJ0/XjP4m8_rXH-1acGX8KrEIA/edit?utm_content=DAFff3EAQJ0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### 🦾 Prerequisites
  - *Python 3.7 or above*
@@ -92,4 +94,7 @@ GesturifAI computer vision models were trained on the basis of a dataset of **33
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/arman-zhalgasbayev/
 [instructions-screenshot]: https://sun9-56.userapi.com/impg/XfrwjUgxhBiukE4pA2KG4gk8fdVmeBTTvzwk-w/4ydnGksMS2U.jpg?size=1280x720&quality=95&sign=de43f4e478716ee6b6c36de20fc449f8&type=album
+[demonstration-screenshot]: https://sun9-57.userapi.com/impg/GdYEpvFKJ5hviLSfr_3PcrKJniT72wG9dCCR_g/xU4FJ0fI1l0.jpg?size=2239x1336&quality=95&sign=e2040bd19378b2397408fa209b52b65a&type=album
+[training-screenshot]: https://sun9-49.userapi.com/impg/NxiTjItS9TIKhaHh8ZL3ZpuwinbD2g4YrwZJhA/sgmWHGUa8qs.jpg?size=1920x1080&quality=95&sign=821940cb38bc2207eaa294e4cfcf691f&type=album
+
 
