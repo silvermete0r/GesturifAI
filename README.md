@@ -67,7 +67,7 @@
 [issues-shield]: https://img.shields.io/github/issues/silvermete0r/GesturifAI.svg?style=flat-square
 [issues-url]: https://github.com/silvermete0r/GesturifAI/issues
 [license-shield]: https://img.shields.io/github/license/silvermete0r/GesturifAI.svg?style=flat-square
-[license-url]: https://github.com/silvermete0r/GesturifAI/blob/ba884c1650b4b127c35d621d69b4107b3409225b/license
+[license-url]: https://github.com/silvermete0r/GesturifAI/blob/main/license
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/arman-zhalgasbayev/
 [instructions-screenshot]: https://sun9-56.userapi.com/impg/XfrwjUgxhBiukE4pA2KG4gk8fdVmeBTTvzwk-w/4ydnGksMS2U.jpg?size=1280x720&quality=95&sign=de43f4e478716ee6b6c36de20fc449f8&type=album
