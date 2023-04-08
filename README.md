@@ -7,7 +7,28 @@
 ## 📝 About The Project
 *GesturifAI* is a computer vision-based gesture recognition and control system that allows users to interact with their devices using hand gestures. The system uses a camera to capture images of the user's hand movements and applies computer vision algorithms to recognize and interpret these movements. This project is designed to be highly efficient and user-friendly for gesture control.
 
+### 👩‍🏭 Features
+1. **Contactless control:** 
+ > GesturifAI allows for contactless control of equipment using hand gestures, which minimizes the risk of infection in public places or shared equipment.
+
+2. **High accuracy:** 
+ > With an average detection accuracy of 90%+ at a speed of 0.4 seconds, GesturifAI can detect hand gestures accurately and quickly.
+
+3. **Customized dataset:** 
+ > The system uses a customized dataset of over 3300 images for gesture training, ensuring that it is trained on a diverse range of gestures and hand positions.
+
+4. **Secure access:** 
+ > GesturifAI only grants access to gesture control to a person who has confirmed their identity using face ID, ensuring that only authorized users can control the equipment.
+
+5. **Optimized algorithm:** 
+ > The system has an optimized algorithm that only recognizes the user's right hand and face, ignoring any other body parts or people in the vicinity. This speeds up the program and minimizes the risk of accidental activation.
+
 ### ✌ Smart Gestures Instructions
+[![Smart Gestures Instructions by GesturifAI][instructions-screenshot]](https://www.canva.com/design/DAFff3EAQJ0/XjP4m8_rXH-1acGX8KrEIA/edit?utm_content=DAFff3EAQJ0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+### 💾 Dataset & Training
+GesturifAI computer vision models were trained on the basis of a dataset of **3300+ images**. Note: **We have manually created a high-quality dataset for gesture training.**
+*Link to the dataset: [>>>GesturifAI_DataSet<<<](https://drive.google.com/drive/folders/1QtpRrrk6DPgsg3snwRBV0P2arVqBlhYS?usp=share_link)*
 [![Smart Gestures Instructions by GesturifAI][instructions-screenshot]](https://www.canva.com/design/DAFff3EAQJ0/XjP4m8_rXH-1acGX8KrEIA/edit?utm_content=DAFff3EAQJ0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### 🦾 Prerequisites
